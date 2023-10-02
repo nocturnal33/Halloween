@@ -1,4 +1,4 @@
-# Nathan Carlson
+# Nocturnal33
 # 10/2/2023
 # Arduino Mega
 # This is to light up 10 Eyes, laser cut into a wooden board.
